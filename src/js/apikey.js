@@ -1,0 +1,4 @@
+REACT_APP_SUPABASE_URL="https://rufsnbpkkxtnihthlslh.supabase.co";
+REACT_APP_ANON_KEY="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InJ1ZnNuYnBra3h0bmlodGhsc2xoIiwicm9sZSI6ImFub24iLCJpYXQiOjE2ODQ2NDA3MjgsImV4cCI6MjAwMDIxNjcyOH0.M355Z-j5EYxUgk3Ru8lzfbsB0eVgCpExTWew8vAzuWA";
+REACT_APP_AUTH0_DOMAIN="dev-mvvja7trhbd7x4ny.us.auth0.com";
+REACT_APP_AUTH0_CLIENT_ID="CqxHCGgN6lYnrOEy0okQ1ZOH2b6NZ2An";
